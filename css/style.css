@@ -86,7 +86,7 @@ h5.img {
 }
 
 .white-page {
-    padding: 50px 300px 150px 300px;
+    padding: 50px 450px 150px 450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -97,6 +97,7 @@ h5.img {
     color: #1F2937;
     font-weight: 900;
     text-align: center;
+    margin-top: 30px;
     margin-bottom: 50px;
 }
 
