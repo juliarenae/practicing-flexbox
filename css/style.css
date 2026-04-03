@@ -14,7 +14,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 35px 250px;
+    padding: 35px 300px;
     height: 40px;
     width: 100%;
     box-sizing: border-box;
@@ -36,4 +36,51 @@ ul.nav {
 .nav li {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.hero {
+    box-sizing: border-box;
+    padding: 250px 300px;
+}
+
+.hero .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.words h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    width: 500px;
+}
+
+.words p {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+    width: 500px;
+}
+
+#button-one {
+    font-size: 18px;
+    color:#F9FAF8;
+    font-weight: 900;
+    background-color: #3882F6;
+    padding: 7px 30px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 150px;
+    text-align: center;
+}
+
+h5.img {
+    background-color: #70747a;
+    text-align: center;
+    box-sizing: border-box;
+    width: 750px;
+    height: 300px;
+    line-height: 300px;
+    color:#F9FAF8;
 }
