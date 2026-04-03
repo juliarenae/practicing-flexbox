@@ -84,3 +84,67 @@ h5.img {
     line-height: 300px;
     color:#F9FAF8;
 }
+
+.white-page {
+    padding: 50px 300px 150px 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.white-page h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.white-page .content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    box-sizing: border-box;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.item p {
+    font-size: 18px;
+    color:#1F2937;
+    text-align: center;
+    width: 200px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 150px 300px;
+}
+
+.quote h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote h4 {
+    font-size: 24px;
+    color:#1F2937;
+    font-weight: 900;
+    text-align: right;
+    padding-right: 20px;
+}
