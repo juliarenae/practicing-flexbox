@@ -133,6 +133,7 @@ h5.img {
     display: flex;
     flex-direction: column;
     padding: 150px 300px;
+    justify-content: center;
 }
 
 .quote h2 {
