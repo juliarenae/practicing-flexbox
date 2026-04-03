@@ -26,11 +26,11 @@ footer {
     font-size: 24px;
 }
 
-.nav {
+ul.nav {
     display: flex;
     align-items: center;
-    gap: 10px;
-    list-style-type: none;
+    gap: 30px;
+    list-style: none;
 }
 
 .nav li {
