@@ -132,7 +132,7 @@ h5.img {
     height: 400px;
     display: flex;
     flex-direction: column;
-    padding: 150px 300px;
+    padding: 150px 400px;
     justify-content: center;
 }
 
