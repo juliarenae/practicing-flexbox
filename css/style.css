@@ -17,6 +17,7 @@ footer {
     padding: 0px 120px;
     height: 40px;
     width: 100%;
+    box-sizing: border-box;
 }
 
 .header h4 {
